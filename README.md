@@ -1,7 +1,9 @@
+Swiggy clone by Umair 🚀 (ReactJS)
+Swiggy is an Indian online food ordering and delivery platform. Founded in 2014, Swiggy is based in Bangalore and operates in 500 Indian cities as of September 2021.
 
+Live Link - https://umairnaim10.github.io/SwiggyClone/
 
-
-# Namaste Food
+# Swiggy Food
 I I
 /**
 * Header
