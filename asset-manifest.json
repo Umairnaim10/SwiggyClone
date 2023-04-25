@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SwiggyClone/static/css/main.edaa3641.css",
-    "main.js": "/SwiggyClone/static/js/main.46056694.js",
+    "main.js": "/SwiggyClone/static/js/main.a5aabc7f.js",
     "index.html": "/SwiggyClone/index.html",
     "main.edaa3641.css.map": "/SwiggyClone/static/css/main.edaa3641.css.map",
-    "main.46056694.js.map": "/SwiggyClone/static/js/main.46056694.js.map"
+    "main.a5aabc7f.js.map": "/SwiggyClone/static/js/main.a5aabc7f.js.map"
   },
   "entrypoints": [
     "static/css/main.edaa3641.css",
-    "static/js/main.46056694.js"
+    "static/js/main.a5aabc7f.js"
   ]
 }
